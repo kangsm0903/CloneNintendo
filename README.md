@@ -1,2 +1,0 @@
-# CloneNintendo
-Created with CodeSandbox
